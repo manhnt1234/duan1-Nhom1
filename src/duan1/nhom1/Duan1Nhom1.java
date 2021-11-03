@@ -15,7 +15,7 @@ public class Duan1Nhom1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Chào bạn");
+        System.out.println("Mọi người cố gắng nhé ");
     }
     
 }
